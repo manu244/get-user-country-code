@@ -1,4 +1,7 @@
 # get-user-country-code
+# get country code
+# get country details
+
 Get Country code with moment js
  * these both libraries are needed to get the response
         npm install moment
